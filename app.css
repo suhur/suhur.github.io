@@ -1,0 +1,14 @@
+img {
+    display: block;
+    margin: auto;
+    width: 10%;
+}
+h2 {
+    text-align: center;
+    border: 3px solid green;
+}
+
+body {
+	background-color: lightblue;
+}
+
